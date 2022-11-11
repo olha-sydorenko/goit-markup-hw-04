@@ -126,6 +126,7 @@ p {
 
 .contact-icon {
   margin-right: 10px;
+  fill: var(--icons-color);
 }
 
 .contact-icon:hover,
